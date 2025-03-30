@@ -1,2 +1,5 @@
 # js-basics
-Practice JS with chia aur js
+Practice JS with Apna College
+# Index:
+1. [*] - Variables and Data types
+2. [] - Operators and Conditional Statements
