@@ -1,0 +1,63 @@
+<!DOCTYPE html> <!-- Document type node-->
+<!-- 
+- head, title, body: these are the element type nodes
+- "DOM in JS", "Javascript DOM": there are the text node
+-->
+<html lang="en">
+<head>
+    <title>DOM in JS</title>
+</head>
+<body>
+    <!-- comment: this is a comment node --> 
+    <div id="div1">
+        <p>Javascript DOM 2</p> 
+        <p id="message">Javascript DOM 1</p>
+        <p>Javascript DOM 3</p>
+        <p>Javascript DOM last</p>
+    </div>
+
+    <input type="radio" name="lang" value="js">
+    <input type="radio" name="lang" value="python">
+
+    <h1 class="heading">H1</h1>
+    <div id="container">
+        <h2 class="heading">H2</h2>
+        <h3 class="heading">H3</h3>
+    </div>
+    
+    <!-- Traversing element -->
+    <div class="title">
+        <p class="text">Welcome to GreatStack</p>
+    </div>
+
+    <!-- footer -->
+    <ul id="Menu">
+        <li>Home</li>
+        <li>About</li>
+        <li>Blog</li>
+    </ul>
+
+    <script src="L06_DOM.js"></script>
+</body>
+</html>
+
+<!--
+# Tree structure of the HTML document
+- HTML
+    - head
+        - title
+    - body
+        - div
+            - p
+            - p
+            - p
+            - p
+-->
+
+<!-- HERE 
+here head, title, body, comment, p :
+- all them are the nodes of the HTML document
+
+# NODE relationship:
+- Any node has relationships to other nodes in the DOM tree, and it is same as described in the traditional family tree
+-->
