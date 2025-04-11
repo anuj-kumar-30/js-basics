@@ -7,7 +7,7 @@ Practice JS with Apna College
 - [x] - [Arrays](/L04_Arrays.js)
 - [x] - [Functions and Methods](/L05_FunctionsAndMethods.js)
 - [x] - [DOM(Document Object Model)](/L06_DOM.js)
-- [ ] - [Events in JS]()
+- [ ] - [Events in JS](/L08_EventsInJS.js)
 - [x] - [Tic Tac Toe Game in JS](/Tic-Tac-Toe/app.js)
 - [ ] - [Stone, Paper, Scissors Game in JS]()
 - [ ] - [Classes and Objects]()
